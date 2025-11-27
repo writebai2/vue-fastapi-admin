@@ -218,6 +218,3 @@ pnpm dev
             ├── system     // 系统管理页面
             └── workbench  // 工作台页面
 ```
-
-
-<img align="left" src = "https://profile-counter.glitch.me/vue-fastapi-admin/count.svg" alt="Loading">
